@@ -1,6 +1,6 @@
 {
-  "name": "@atleta/default-token-list",
-  "version": "11.17.0",
+  "name": "@atleta-chain/default-token-list",
+  "version": "11.18.0",
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
